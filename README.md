@@ -1,0 +1,2 @@
+# OC-EFI-MINISFORUM-X35G-Monterey
+ macOS on MINISFORUM-X35G Ice Lake
